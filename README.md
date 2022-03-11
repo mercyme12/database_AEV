@@ -10,15 +10,15 @@ Third, urban middle-aged adults’ time spent in formal learning (TSFL) moderate
 
 
 ## Available variables
-aev: agricultural entrepreneurship volition
-exp: outcome expectancy, 5-likert scale
-nwk: social networking, 5-likert scale
-fle: formal learning experience, 5-likert scale
-ile: informal learning experience, 5-likert scale
-tsfl: time spent in formal learning, 0= lower than 50 hours, 1= 50 hours through 99 hours, 2= 100 hours or above
-homeplace: origin of place, 0=urban 1=suburban 3=rural
-gender: 1=male, 2=female
-retirement_d: 1=working, 2=retired or inactive
-farmtype: 1=succeeding family farm business, 2=start-up farming, 3=employed farming
-age_d: 0=40s, 1=50s, 2=60s
-education_d4: 1=under high school, 2=community college, 3=undergraduates, 4=graduates
+	*aev: agricultural entrepreneurship volition 
+	*exp: outcome expectancy, 5-likert scale 
+	*nwk: social networking, 5-likert scale 
+	*fle: formal learning experience, 5-likert scale 
+	*ile: informal learning experience, 5-likert scale 
+	*tsfl: time spent in formal learning, 0= lower than 50 hours, 1= 50 hours through 99 hours, 2= 100 hours or above 
+	*homeplace: origin of place, 0=urban 1=suburban 3=rural 
+	*gender: 1=male, 2=female 
+	*retirement_d: 1=working, 2=retired or inactive 
+	*farmtype: 1=succeeding family farm business, 2=start-up farming, 3=employed farming 
+	*age_d: 0=40s, 1=50s, 2=60s 
+	*education_d4: 1=under high school, 2=community college, 3=undergraduates, 4=graduates 
